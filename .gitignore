@@ -14,7 +14,6 @@ ENV/
 !kaggle.json  # But generally keep keys out of git
 
 # Data
-data/raw/
 data/raw/*.zip
 F1_Dataset/
 *.zip
